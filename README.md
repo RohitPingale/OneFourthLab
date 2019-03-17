@@ -1,2 +1,2 @@
 # OneFourthLab
-Images to different Lingual Conversion application.
+Images to different Lingual text Conversion application.
